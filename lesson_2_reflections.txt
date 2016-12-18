@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	This text editor, Sublime, kills me. It does not ask to save, nor saves
+	things automatically. Anyways, Git creates a folder named .git, which
+	will contain metadata, data about file changes. Then I will have a place
+	to commit, my changes.

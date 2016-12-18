@@ -1,0 +1,68 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It saves you from a lot of times. Otherwise it is time consuming especially,
+    id ı deal with long files like 1000 lines. It is really helpful. I was origi-
+    nally using Notepad++ to comapre two files, and didn't know that there was a
+    built-in command for to compare two files. Anways, I really like the idea of
+    knowing new things now nad then. And here I have kearn with cmd in Wİndows,
+    I can compare files with a simple "FC" (File Compare) command. Though, this 
+    tutorial is for Git, and GitHub, I haven't still used Git, yet. So, "diff" 
+    is still not for me. However, I think by time, I will be there.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Well, appearently I know nothing about this topic. I knew that GDrive was 
+    able to show the old version of files. However, Dropbox?, or Wikipedia. 
+    I didn't know them for sure. There was a time I clicked View History tab in
+    Wikipedia. But didn't know much I guess. Iw seemed so complicated. So about
+    the question. I think, that ther emay be too many changes in a files, espe-
+    cially if the file contains data from an always updating project. Think of 
+    this as you will make changes all the time. Sometimes, you may delete a 
+    feature, and then you may need to add, or maybe you change too many, and 
+    you got error. There are so many things to check, before a working version
+    is up. So, yeah, it is quite important to have some backup.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Well, it is good and bad at the same time. Because, if you too carried away,
+    trying to solve the problems. Then you will end up with big commits, which 
+    is not good compared to what to do. Also, the real purpose of version-control
+    in GDrive and Dropbox, I would say, is saving people from lossing data that 
+    entered, and lost due to some technical problems, such as computer to be 
+    broke, and electricity is gone. So, an auto-commit feature would be fine to
+    define. Even the data retrieved from is not understandable or incomplete,
+    there will be data to recover from over 50 lines, maybe. I will see your
+    answer and update my thoughts.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Again same thing goes for here, too. Purpose is different. Git is designed to
+    commit files for programming purposes. So, it saves all related files at once.
+    Which is a good thing, because there might be multiple changes in multiple 
+    files regarding same feature. GDrive is really for Bussiness, nothing like 
+    for programmers, nor coders. One file at a time.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Oh, I have answered this question very well. However, it did disappear. I guess
+    sublime is not that great. If it would be notepad++, I woulkd never loose them.
+    I have started tı thought that. Maybe I should've install it. Not just portable 
+    it.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Well, answer is quite. Now, that even if I have broke something, I can bring it
+    back. Like a magic I would say :D
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I have some coding projects, and I update them every then and now. So, it changes
+    quite a bit But, I want to be able see my previous versions of the projects. 
+    I will be doing some Fortran and Android coding, I guess. I am new in both. It's 
+    gonna take some time for me to learn all this stuff. I'm trileld.
