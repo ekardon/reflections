@@ -4,3 +4,10 @@ What happens when you initialize a repository? Why do you need to do it?
 	things automatically. Anyways, Git creates a folder named .git, which
 	will contain metadata, data about file changes. Then I will have a place
 	to commit, my changes.
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+	Staging area is the place where Git tracks differences. Working directory is
+	the directory that we use for our project. Repository is a container for
+	changes that we have done so far.
