@@ -42,3 +42,14 @@ in the diagram the way we do?
 	versions of the same file. Because branches are becoming one, so like 
 	the real trees with branches, they come into one.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+	Git's automatic merging lets your main code intact, while more than one
+	person is working on it. When there is comflict, which happens to be same
+	code group is being changed or sth. then Git lets you decide which on
+	you would like to go with. In this perspective, it is quite helpful. Well,
+	I cannot think of any cons. So, that's it. May be, if Git would be able to
+	auto merge anything with logic, that would be nice. However, I don't think
+	that is necessary, because it is annoying, farfetching.
+
