@@ -21,3 +21,10 @@ change?
 	IN another words, I don't need to deselect and reselect the files that I 
 	don't want to commit.
 
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+	If we would like to experiment on some new features, or add extra modes: this
+	feature is quite helpful. By using branch, we can expriment with lots of 
+	features, without changing back and forth.
+
