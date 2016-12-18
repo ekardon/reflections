@@ -35,3 +35,10 @@ How do the diagrams help you visualize the branch structure?
 	fixed in that branch or so. They give me a general idea of the all ideas.
 	This feature does not work either. HAHA, what a wonderful tutorial.
 
+What is the result of merging two branches together? Why do we represent it 
+in the diagram the way we do?
+
+	The result is to create one complete file, by combining two different 
+	versions of the same file. Because branches are becoming one, so like 
+	the real trees with branches, they come into one.
+
