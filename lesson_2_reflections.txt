@@ -11,3 +11,13 @@ What value do you think it offers?
 	Staging area is the place where Git tracks differences. Working directory is
 	the directory that we use for our project. Repository is a container for
 	changes that we have done so far.
+
+How can you use the staging area to make sure you have one commit per logical 
+change?
+
+	I have no idea. It appears that does not work for me. I tried to do it, but 
+	in the and it was nothing. So, let me tell you things I did understand. 
+	It lets me commit seperately for different files that is on the staging area.
+	IN another words, I don't need to deselect and reselect the files that I 
+	don't want to commit.
+
