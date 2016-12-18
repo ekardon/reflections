@@ -18,7 +18,7 @@ change?
 	I have no idea. It appears that does not work for me. I tried to do it, but 
 	in the and it was nothing. So, let me tell you things I did understand. 
 	It lets me commit seperately for different files that is on the staging area.
-	IN another words, I don't need to deselect and reselect the files that I 
+	In another words, I don't need to deselect and reselect the files that I 
 	don't want to commit.
 
 What are some situations when branches would be helpful in keeping your history 
@@ -27,4 +27,11 @@ organized? How would branches help?
 	If we would like to experiment on some new features, or add extra modes: this
 	feature is quite helpful. By using branch, we can expriment with lots of 
 	features, without changing back and forth.
+
+How do the diagrams help you visualize the branch structure?
+
+	Well, they let me know when a new branch has started. So that, I know what 
+	changes does that branch has or not, what features a branch has, or what 
+	fixed in that branch or so. They give me a general idea of the all ideas.
+	This feature does not work either. HAHA, what a wonderful tutorial.
 
