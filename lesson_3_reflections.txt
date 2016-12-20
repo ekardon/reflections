@@ -21,4 +21,8 @@ instead of another?
 	GitHub, I use fork. Finally, when I want to copy my codes from GitHub, or from some
 	other device, I use clone.
 
- 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+ 	You can compare two while offline. Make changes, and merge with local branches.
+ 	Making a working code with both changes.
+
