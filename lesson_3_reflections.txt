@@ -12,3 +12,13 @@ stay up-to-date with your remote repository?
 	not want Git to screw it. Plus, there might not be always something to pull. It is
 	good practive to do it manually.
 
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+
+	Fork, clone, and branch. Fork and clone is similar but branch is ridiculously diff
+	from other two. I would use branch when I want to do some experiment with my code
+	in my local machine. When I want to copy someone else's code and work on it, on my
+	GitHub, I use fork. Finally, when I want to copy my codes from GitHub, or from some
+	other device, I use clone.
+
+ 
