@@ -1,0 +1,14 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+	When I work on a project with a team. Or, where I need some contributers. Opening
+	respiratory to public (because of ridicilous GitHub shit) users would test it, and
+	I can get feedback from them. Solving problems and so. When in private, it is to 
+	share with my other devices, and a safe place to keep them.
+
+Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+
+	There might be some changes in local version of the repository, so I guess, I would
+	not want Git to screw it. Plus, there might not be always something to pull. It is
+	good practive to do it manually.
+
