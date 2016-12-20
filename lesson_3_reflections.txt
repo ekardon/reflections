@@ -26,3 +26,11 @@ What is the benefit of having a copy of the last known state of the remote store
  	You can compare two while offline. Make changes, and merge with local branches.
  	Making a working code with both changes.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what 
+would be harder?
+
+	Collaboration would a lot more harder. And every small changes would disappear now
+	and then. We wouldn't be able to determine whose changes causing problems. Every time
+	we try to save backups it would require so many space on hard drive. I don't see
+	anything that would get easier.
+
