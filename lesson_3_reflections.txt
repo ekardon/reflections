@@ -34,3 +34,11 @@ would be harder?
 	we try to save backups it would require so many space on hard drive. I don't see
 	anything that would get easier.
 
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+	When you work with a team, and want to someone to review the changes. And decide
+	whether you really need that, or is it the best way to put it.If I make changes
+	drirectly to the master branch then it will be up to date all the time, however 
+	there might me some fatal error, which caused by a tiny typo. That is why putting
+	a pull request and seperate branch makes more sense.
